@@ -12,7 +12,7 @@ Installer Studio 也是一款兼顾研发人员和设计人员的安装包构建
 # 安装Installer Studio
 前往下载地址下载并安装：https://installerstudio.online
 
-<img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer/1.png">
+<img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer_screenshots/1.png">
 
 # 创建安装包项目
 打开 Installer Studio，选择合适的安装包模板建立安装包项目，有近百个安装包模板可选择
