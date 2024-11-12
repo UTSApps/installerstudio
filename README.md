@@ -7,7 +7,7 @@ Installer Studio 也是一款兼顾研发人员和设计人员的安装包构建
 # 效果
 先看看使用Installer Studio制作安装包的效果：
 
-<img src="https://github.com/UTSApps/installerstudio/blob/main/images/template_screenshots/50000.png">
+<img src="https://github.com/UTSApps/installerstudio/blob/main/images/template_screenshots/1.png">
 
 # 安装Installer Studio
 前往下载地址下载并安装：https://installerstudio.online
