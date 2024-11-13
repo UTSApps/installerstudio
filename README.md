@@ -1,3 +1,4 @@
+[中文](https://github.com/UTSApps/installerstudio/blob/main/README.md) &nbsp;&nbsp;&nbsp;&nbsp; [English](https://github.com/UTSApps/installerstudio/blob/main/README_en.md)
 # Installer Studio
 Installer Studio 是一款制作 Windows 安装包的软件，1分钟即可完成软件打包。支持离线/在线安装包制作，基于近百个模板快速构建高质量安装包，支持自定义注册表，环境变量，快捷方式以及Java，.Net等环境的安装。
 Installer Studio 也是一款兼顾研发人员和设计人员的安装包构建器，构建安装包从未如此方便。
