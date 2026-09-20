@@ -13,7 +13,8 @@ First, let's take a look at the effect of using Installer Studio to create an in
 <img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer_screenshots/5.png">
 
 # Install Installer Studio
-Go to the download address to download and install: https://installerstudio.online
+Go to the official website and download installer:
+https://installerstudio.online
 
 # Create an installation package project
 Open Installer Studio, select the appropriate installation package template to create an installation package project, there are nearly a hundred installation package templates to choose from
