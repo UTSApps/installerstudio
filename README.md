@@ -10,7 +10,6 @@ Installer Studio 也是一款兼顾研发人员和设计人员的安装包构建
 
 <img src="https://github.com/UTSApps/installerstudio/blob/main/images/template_screenshots/1.png">
 <img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer_screenshots/2.png">
-<img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer_screenshots/3.png">
 <img src="https://github.com/UTSApps/installerstudio/blob/main/images/installer_screenshots/4.png">
 
 # 安装Installer Studio
